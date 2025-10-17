@@ -28,7 +28,7 @@ const Main = () => {
 
   return (
     <>
-      <main className="overflow-hidden relative bottom-15 flex flex-col items-center md:flex-row">
+      <main className="overflow-hidden flex flex-col items-center md:flex-row">
         <div className="w-[90vw] ml-15 mr-15 text-center mt-8">
           <h1 className="text-2xl md:text-3xl text-[#A4E9DE] font-black">
             Welcome to ISdeveloper — to continue please login first
